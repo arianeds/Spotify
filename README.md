@@ -7,3 +7,6 @@ Funcionalidades da Análise:
 4. Possibilidade de selecionar um artista específico e um álbum para ver quais são as músicas mais tocadas desse artista/álbum. 🎧 
 A análise dos dados das músicas do Spotify permite entender as tendências musicais e preferências dos usuários. As funcionalidades apresentadas ajudam a identificar os artistas, álbuns e músicas mais populares, além de possibilitar filtros específicos para análises detalhadas.
 Créditos: Asimov Academy
+
+https://github.com/arianeds/Spotify/assets/144493998/76cdc080-bbd2-4090-beaa-7d381f2f39f3
+
