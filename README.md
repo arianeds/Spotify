@@ -17,9 +17,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git
 - Github
 
-# 💻 Link Projeto
-
-https://arianegaucha.github.io/spotify/
-
 https://github.com/arianeds/Spotify/assets/144493998/76cdc080-bbd2-4090-beaa-7d381f2f39f3
 
