@@ -1,4 +1,4 @@
-<h1 align="center"> 🎵 Projeto Spotify🎵 </h1>
+<h1 align="center"> 🎵 Spotify Music🎵 </h1>
 
 Este projeto apresenta uma análise dos dados referentes às músicas mais tocadas no Spotify. O objetivo é explorar informações sobre as músicas, artistas favoritos e os álbuns mais populares. Através dessa análise, é possível identificar padrões de consumo e preferências dos usuários.
 Funcionalidades da Análise:
